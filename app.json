@@ -5,11 +5,11 @@
   "env": {
     "VER": {
        "description": "设置 gsnova 版本",
-       "value": "0.33.0"
+       "value": "0.001"
     }, 
     "KEY": {
        "description": "设置 加密 key",
-       "value": "809240d3a021449f6e67aa73221d42df942a308a"
+       "value": "809240d3a021449f6e67aa73221d42df942a308b"
     },
     "Window": {
        "description": "设置 MaxStreamWindow",
@@ -20,7 +20,7 @@
        "value": "32k"
     }
   },
-  "website": "https://github.com/wangyi2005/gsnova-heroku",
-  "repository": "https://github.com/wangyi2005/gsnova-heroku",
+  "website": "001",
+  "repository": "001",
   "stack": "container"
  }
