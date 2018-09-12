@@ -9,7 +9,7 @@
     }, 
     "KEY": {
        "description": "设置 加密 key",
-       "value": "809240d3a021449f6e67aa73221d42df942a308a"
+       "value": "809240d3a021449f6e67aa73221d42df942a308b"
     },
     "Window": {
        "description": "设置 MaxStreamWindow",
